@@ -1,0 +1,7 @@
+[package]
+name = "typestate-example"
+version = "0.1.0"
+authors = ["Sven Neumann <sven@svenfoo.org>"]
+edition = "2018"
+
+[dependencies]
